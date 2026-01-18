@@ -1,0 +1,3 @@
+[build]
+  command = ""          # blank = no build
+  publish = "."         # root of repo
